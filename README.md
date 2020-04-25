@@ -3,3 +3,6 @@ The proposed system is developed for University to minimize the paperwork and to
 
 # How to run ?
 All the necessary steps to setup your system env in order to run this project are there in [readmealso.docx](https://github.com/nevilparmar11/ISO-Management-System-SE-Project/blob/master/ISO/ReadmeIso.docx) file inside ISO folder.
+
+# Video Tutorial
+[Click Here](https://www.youtube.com/watch?v=_ej0c2xgSI8&t=10s)
